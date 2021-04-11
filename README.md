@@ -1,1 +1,1 @@
-# Example Config Ediotor for C#
+# Example Config Editor for C#
