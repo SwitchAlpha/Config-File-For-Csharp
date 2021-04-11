@@ -1,1 +1,1 @@
-# Example-Config-File-For-c-
+# Example Config Ediotor for C#
